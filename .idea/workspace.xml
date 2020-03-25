@@ -6,7 +6,11 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8033423d-bc9f-4757-a2c8-009e79bf1b2c" name="Default Changelist" comment="" />
+    <list default="true" id="8033423d-bc9f-4757-a2c8-009e79bf1b2c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/servlets/DeleteDepartmentServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/servlets/DeleteDepartmentServlet.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +27,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ServletJava" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -150,6 +154,8 @@
       <updated>1577172933311</updated>
       <workItem from="1577172936800" duration="1222000" />
       <workItem from="1577174290113" duration="10419000" />
+      <workItem from="1577188664027" duration="250000" />
+      <workItem from="1577201968285" duration="1493000" />
     </task>
     <servers />
   </component>
@@ -161,7 +167,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -174,11 +182,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/app/service/ClinicService.java</url>
           <line>25</line>
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/app/servlets/EdtiDepartmentServlet.java</url>
-          <line>37</line>
-          <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/app/servlets/EdtiDepartmentServlet.java</url>
